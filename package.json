@@ -20,6 +20,6 @@
   },
   "homepage": "https://speedbumpphp.github.com",
   "devDependencies": {
-    "gh-pages": "^2.1.0"
+    "gh-pages": "^2.0.1"
   }
 }
