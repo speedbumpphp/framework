@@ -1,5 +1,5 @@
 {
-  "name": "SpeedBumpPHP",
+  "name": "speedbumphp",
   "version": "1.0.0",
   "description": "SpeedBumpPHP is a PHP Framework.",
   "scripts": {
@@ -7,17 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/speedbumpphp/speedbumpphp.github.io.git"
+    "url": "git+https://github.com/speedbumpphp/framework.git"
   },
   "keywords": [
     "php",
     "php framework"
   ],
   "author": "Aaron Saray <aaron@aaronsaray.com>",
-  "license": "MITISC",
-  "bugs": {
-    "url": "https://github.com/speedbumpphp/speedbumpphp.github.io/issues"
-  },
+  "license": "MIT",
   "homepage": "https://speedbumpphp.github.com",
   "devDependencies": {
     "gh-pages": "^2.0.1"
