@@ -73,3 +73,8 @@ header h2 {
   width: 100%;
   max-width: 500px;
 }
+
+footer {
+  color: #cccccc;
+  background-color: #2f2f2f;
+}
