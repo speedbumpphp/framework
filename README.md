@@ -1,3 +1,3 @@
 # SpeedBumpPHP
 
-For details, see [https://speedbumpphp.github.io](SpeedBumpPHP.github.io).
+For details, see [SpeedBumpPHP.github.io](https://speedbumpphp.github.io).
